@@ -342,7 +342,7 @@
 				{
 					"name": "Howl.",
 					"entries": [
-						"The guardian has disadvantage on all saving throws against becoming Frightened. If it fails a saving throw, instead of becoming Frightened, all creatures within 10 ft. of the guardian must make a DC14 Constitution saving throw, taking 12 ({@damage 3d8}) thunder damage on a failed save, or half that on a succesful one. The guardian then has disadvantage on all attacks which are not targeting the creature which caused the saving throw until the end of it's next turn."
+						"The guardian has disadvantage on all saving throws against becoming Frightened. If it fails a saving throw, instead of becoming Frightened, all creatures within 10 ft. of the guardian must make a {@dc 14} Constitution saving throw, taking 12 ({@damage 3d8}) thunder damage on a failed save, or half that on a succesful one. The guardian then has disadvantage on all attacks which are not targeting the creature which caused the saving throw until the end of it's next turn."
 					]
 				},
 				{
